@@ -3,6 +3,10 @@
 <!--
 **arendarski/arendarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Assistant Professor in Computer Science at Poznan University of Economics
+
+I am an Assistant Professor in Computer Science specialising in Financial Data Sceince. My research is focussed on Modeling High-Frequency Limit Order Book Dynamics Using Machine Learning in backend technologies such as Python.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Frontend: Java Swing, JavaFX
+- Backend: Java, Python
+- Libs: Pandas
+- Cloud Computing: ...
+- CI/CD: ...
