@@ -1,12 +1,14 @@
 ### Hi there 👋 I'm Piotr Arendarski
 
-Assistant Professor in Computer Science at Poznan University of Economics
+Assistant Professor in Computer Science at [Poznan University of Economics](http://kie.ue.poznan.pl/en/members/).
 
-I am an Assistant Professor in Computer Science specialising in Financial Data Sceince. My research is focussed on Modeling High-Frequency Limit Order Book Dynamics Using Machine Learning in backend technologies such as Python.
+Teaching duties:
+- Algorithms and Data Structures (Tutorial, Autumn/2020)
+- Machine Learning (Lecture & Tutorial, Autumn/2020)
+- Artificial Intelligence (Lecture, Spring/2021)
+- Software Quality (Tutorial, Spring/2021)
 
-
+Skills:
 - Frontend: Java Swing, JavaFX
-- Backend: Java, Python
-- Libs: Pandas
-- Cloud Computing: ...
-- CI/CD: ...
+- Backend: Python, Java
+- Top Libs: Numpy, Pandas, Sci-kit-learn
