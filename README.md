@@ -14,7 +14,7 @@ Teaching duties:
 Skills:
 - Frontend: tkinter, JavaFX
 - Backend: Python, Java, MS Excel
-- Top Libs: Numpy, Pandas, Sci-kit-learn
+- Top Libs: Pandas NumPy, Matplotlib, Scikit-learn
 
 Knowledge:
 - Statistical models used in finance
