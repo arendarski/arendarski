@@ -9,14 +9,12 @@ Teaching duties:
 - Algorithms and Data Structures (Tutorial, Autumn/2020)
 - Machine Learning (Lecture & Tutorial, Autumn/2020)
 - Artificial Intelligence (Lecture, Spring/2021)
-- Software Quality (Tutorial, Spring/2021)
 
 Skills:
-- Frontend: tkinter, JavaFX
 - Backend: Python, Java, MS Excel
-- Top Libs: Pandas NumPy, Matplotlib, Scikit-learn
+- Frontend: tkinter
+- Libs: Pandas NumPy, Matplotlib, Scikit-learn
 
 Knowledge:
 - Statistical models used in finance
 - Machine Learning models from scratch
-
